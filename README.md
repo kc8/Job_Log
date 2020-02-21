@@ -31,6 +31,6 @@ take a look there for more info about the database.
 
 You can also run setup.py to create a module but this project is meant to work as a CLI
 
-###TO-DO
+### TO-DO
 
 I do plan to create a standalone package for this application with a CLI interface. 
