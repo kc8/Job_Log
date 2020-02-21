@@ -34,3 +34,16 @@ You can also run setup.py to create a module but this project is meant to work a
 ### TO-DO
 
 I do plan to create a standalone package for this application with a CLI interface. 
+
+### Sample output
+
+```
+Welcome to Kyle's Job Tracker!
+Please use 'help' to see a detailed list of commands
+Displaying all jobs with status of applied
+Company Name | Date Applied  | Resume Version | Position Applied | Status
+Name | 2020-02-13 | 02022020 | Position Name | 0
+Some Company | 2020-02-14 | 02022020 | Make Believe Dev at Some Company | 0
+
+
+```
