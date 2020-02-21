@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Digital Ocean Job Hunt" uuid="e36ce471-658e-4cd9-a95e-5f2ab2b44278">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://portfolio-blog-db-do-user-4508102-0.db.ondigitalocean.com:25060/jobhunt</jdbc-url>
+    </data-source>
+  </component>
+</project>
